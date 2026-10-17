@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "cases": 2304,
+  "values": 82944,
+  "maxGeometryErrorPx": 0.00004069010424245789,
+  "geometryTolerancePx": 0.001,
+  "hitAndFilter": "exact",
+  "sourceCells": 6,
+  "liveOperations": 367,
+  "layers": 23,
+  "failures": []
+}

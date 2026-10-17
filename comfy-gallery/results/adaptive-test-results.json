@@ -1,0 +1,576 @@
+{
+  "status": "PASS",
+  "conditions": 16,
+  "layouts": 48,
+  "cards": 288,
+  "parametersUnchanged": true,
+  "methods": [
+    "fixed224",
+    "sharedRule",
+    "perLayoutSearch"
+  ],
+  "improved": 12,
+  "measurement": "Actual browser canvas, Arial 14px; frozen word measurements for reproducibility",
+  "rows": [
+    {
+      "width": 420,
+      "priority": false,
+      "long": false,
+      "metrics": [
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.07005518262701282,
+          "height": 1154.046511627907
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.03756559787652879,
+          "height": 1114.6754227197448
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.03755694394915938,
+          "height": 1114.5697674418604
+        }
+      ],
+      "productWidths": [
+        224,
+        206.67595863342285
+      ]
+    },
+    {
+      "width": 420,
+      "priority": false,
+      "long": true,
+      "metrics": [
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.12255518262701282,
+          "height": 1234.046511627907
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.13149733827408933,
+          "height": 1211.3473743685456
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.09005694394915939,
+          "height": 1194.5697674418604
+        }
+      ],
+      "productWidths": [
+        224,
+        200.7132053375244
+      ]
+    },
+    {
+      "width": 420,
+      "priority": true,
+      "long": false,
+      "metrics": [
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.09119771676322133,
+          "height": 1154.046511627907
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.03468819036737625,
+          "height": 1162.9870595072591
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.0346686485320565,
+          "height": 1162.0116279069766
+        }
+      ],
+      "productWidths": [
+        224,
+        292.79167652130127
+      ]
+    },
+    {
+      "width": 420,
+      "priority": true,
+      "long": true,
+      "metrics": [
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.14369771676322135,
+          "height": 1234.046511627907
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.05953395151160796,
+          "height": 1214.4650568657144
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.04096354693799145,
+          "height": 1205.9186046511627
+        }
+      ],
+      "productWidths": [
+        224,
+        277.5230884552002
+      ]
+    },
+    {
+      "width": 620,
+      "priority": false,
+      "long": false,
+      "metrics": [
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.05311149793664183,
+          "height": 585.0232558139535
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.021774427638358056,
+          "height": 575.8513938396476
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.02177790381076725,
+          "height": 575.2848837209302
+        }
+      ],
+      "productWidths": [
+        224,
+        206.8683624267578
+      ]
+    },
+    {
+      "width": 620,
+      "priority": false,
+      "long": true,
+      "metrics": [
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.10561149793664182,
+          "height": 665.0232558139535
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.11563430073451153,
+          "height": 672.7202770169391
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.07427790381076727,
+          "height": 655.2848837209302
+        }
+      ],
+      "productWidths": [
+        224,
+        201.4521598815918
+      ]
+    },
+    {
+      "width": 620,
+      "priority": true,
+      "long": false,
+      "metrics": [
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.07425403207285035,
+          "height": 585.0232558139535
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.017954011859349157,
+          "height": 623.9101338719213
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.017955695309530378,
+          "height": 622.7267441860465
+        }
+      ],
+      "productWidths": [
+        224,
+        292.9900646209717
+      ]
+    },
+    {
+      "width": 620,
+      "priority": true,
+      "long": true,
+      "metrics": [
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.12675403207285035,
+          "height": 665.0232558139535
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.04278090705058507,
+          "height": 675.7514412236768
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.024173683226183705,
+          "height": 666.6337209302326
+        }
+      ],
+      "productWidths": [
+        224,
+        278.3724069595337
+      ]
+    },
+    {
+      "width": 900,
+      "priority": false,
+      "long": false,
+      "metrics": [
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.05135595701059399,
+          "height": 396
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.020092139405733875,
+          "height": 396.2944015264511
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.020099899275619854,
+          "height": 395.75
+        }
+      ],
+      "productWidths": [
+        224,
+        207.13770389556885
+      ]
+    },
+    {
+      "width": 900,
+      "priority": false,
+      "long": true,
+      "metrics": [
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.10385595701059398,
+          "height": 475.0232558139535
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.11391109675575334,
+          "height": 492.62620301717936
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.07259989927561987,
+          "height": 475.4098837209302
+        }
+      ],
+      "productWidths": [
+        224,
+        201.72152519226074
+      ]
+    },
+    {
+      "width": 900,
+      "priority": true,
+      "long": false,
+      "metrics": [
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.0724984911468025,
+          "height": 396
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.016211467982761758,
+          "height": 443.40733529800593
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.016215515366585453,
+          "height": 442.8517441860465
+        }
+      ],
+      "productWidths": [
+        224,
+        292.6157474517822
+      ]
+    },
+    {
+      "width": 900,
+      "priority": true,
+      "long": true,
+      "metrics": [
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.12499849114680252,
+          "height": 475.0232558139535
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.04081041782285366,
+          "height": 496.1212014209392
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.022428382955537812,
+          "height": 486.7587209302326
+        }
+      ],
+      "productWidths": [
+        224,
+        279.5614242553711
+      ]
+    },
+    {
+      "width": 1180,
+      "priority": false,
+      "long": false,
+      "metrics": [
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.06718151618784475,
+          "height": 396
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.0347884376470093,
+          "height": 396.39694237709045
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.03473404561708327,
+          "height": 395.75
+        }
+      ],
+      "productWidths": [
+        224,
+        207.4071168899536
+      ]
+    },
+    {
+      "width": 1180,
+      "priority": false,
+      "long": true,
+      "metrics": [
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.11968151618784474,
+          "height": 475.0232558139535
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.12852772052024103,
+          "height": 472.85270745948304
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.08723404561708328,
+          "height": 455.4098837209302
+        }
+      ],
+      "productWidths": [
+        224,
+        201.82180404663086
+      ]
+    },
+    {
+      "width": 1180,
+      "priority": true,
+      "long": false,
+      "metrics": [
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.08832405032405326,
+          "height": 396
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.03186587449490845,
+          "height": 423.5725477296253
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.031805039925425514,
+          "height": 422.8517441860465
+        }
+      ],
+      "productWidths": [
+        224,
+        291.7264938354492
+      ]
+    },
+    {
+      "width": 1180,
+      "priority": true,
+      "long": true,
+      "metrics": [
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.14082405032405326,
+          "height": 475.0232558139535
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.05611836662921994,
+          "height": 477.44641893409016
+        },
+        {
+          "missingContent": 0,
+          "textOverflow": 0,
+          "horizontalOverflow": 0,
+          "overlaps": 0,
+          "preferenceLoss": 0.03809658572051477,
+          "height": 466.7587209302326
+        }
+      ],
+      "productWidths": [
+        224,
+        280.7505130767822
+      ]
+    }
+  ]
+}

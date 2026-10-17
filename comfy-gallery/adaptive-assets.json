@@ -1,0 +1,44 @@
+[
+  {
+    "file": "tumbler.png",
+    "name": "크림 텀블러",
+    "ratio": 1.7916666666666667,
+    "title": "Cream tumbler",
+    "caption": "A plain insulated tumbler for the product reveal."
+  },
+  {
+    "file": "family.png",
+    "name": "가족 레퍼런스",
+    "ratio": 1.7916666666666667,
+    "title": "Family reference",
+    "caption": "The fictional family used across the story."
+  },
+  {
+    "file": "family-shot.jpg",
+    "name": "태연한 가족",
+    "ratio": 1.7777777777777777,
+    "title": "Calm family",
+    "caption": "A calm conversation in the empty street."
+  },
+  {
+    "file": "rescue-shot.jpg",
+    "name": "설거지 반전",
+    "ratio": 1.7777777777777777,
+    "title": "Final reveal",
+    "caption": "The product appears during the final story reveal."
+  },
+  {
+    "file": "neighbor.jpg",
+    "name": "동네 이웃",
+    "ratio": 1.7777777777777777,
+    "title": "A neighbor",
+    "caption": "A reaction shot from the story."
+  },
+  {
+    "file": "anchor.jpg",
+    "name": "긴급 뉴스",
+    "ratio": 1.7777777777777777,
+    "title": "Breaking news",
+    "caption": "The opening news scene introduces the story."
+  }
+]

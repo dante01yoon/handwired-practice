@@ -1,0 +1,82 @@
+{
+  "width": 620,
+  "priority": true,
+  "long": false,
+  "method": "sharedRule",
+  "items": [
+    {
+      "file": "tumbler.png",
+      "left": 16,
+      "top": 16,
+      "width": 292.9900646209717,
+      "height": 211.52933839310046,
+      "imageHeight": 163.52933839310046,
+      "lines": [
+        "Cream tumbler. A plain insulated tumbler for",
+        "the product reveal."
+      ]
+    },
+    {
+      "file": "family.png",
+      "left": 324.9900646209717,
+      "top": 16,
+      "width": 207.1500539779663,
+      "height": 163.61863477839978,
+      "imageHeight": 115.6186347783998,
+      "lines": [
+        "Family reference. The fictional",
+        "family used across the story."
+      ]
+    },
+    {
+      "file": "family-shot.jpg",
+      "left": 16,
+      "top": 243.52933839310046,
+      "width": 206.49762153625488,
+      "height": 164.15491211414337,
+      "imageHeight": 116.15491211414337,
+      "lines": [
+        "Calm family. A calm conversation",
+        "in the empty street."
+      ]
+    },
+    {
+      "file": "rescue-shot.jpg",
+      "left": 238.49762153625488,
+      "top": 243.52933839310046,
+      "width": 206.10735416412354,
+      "height": 183.9353867173195,
+      "imageHeight": 115.93538671731949,
+      "lines": [
+        "Final reveal. The product",
+        "appears during the final story",
+        "reveal."
+      ]
+    },
+    {
+      "file": "neighbor.jpg",
+      "left": 16,
+      "top": 443.46472511042,
+      "width": 207.01406002044678,
+      "height": 164.4454087615013,
+      "imageHeight": 116.44540876150131,
+      "lines": [
+        "A neighbor. A reaction shot from",
+        "the story."
+      ]
+    },
+    {
+      "file": "anchor.jpg",
+      "left": 239.01406002044678,
+      "top": 443.46472511042,
+      "width": 206.14120960235596,
+      "height": 163.95443040132523,
+      "imageHeight": 115.95443040132523,
+      "lines": [
+        "Breaking news. The opening",
+        "news scene introduces the story."
+      ]
+    }
+  ],
+  "height": 623.9101338719213
+}

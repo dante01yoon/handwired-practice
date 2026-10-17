@@ -1,0 +1,32 @@
+[
+  {
+    "file": "tumbler.png",
+    "name": "크림 텀블러",
+    "kind": "product"
+  },
+  {
+    "file": "family.png",
+    "name": "가족 레퍼런스",
+    "kind": "story"
+  },
+  {
+    "file": "family-shot.jpg",
+    "name": "태연한 가족",
+    "kind": "story"
+  },
+  {
+    "file": "rescue-shot.jpg",
+    "name": "설거지 반전",
+    "kind": "story"
+  },
+  {
+    "file": "neighbor.jpg",
+    "name": "동네 이웃",
+    "kind": "story"
+  },
+  {
+    "file": "anchor.jpg",
+    "name": "긴급 뉴스",
+    "kind": "story"
+  }
+]
